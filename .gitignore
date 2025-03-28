@@ -1,8 +1,9 @@
 # Ignore JSON files
 .JSON
+.xlsx
 
 # Ignore Python compiled files
-# *.pyc
+*.pyc
 
 # Ignore log
 *.log
